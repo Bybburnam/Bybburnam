@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/techissexxy" target="blank"><img src="https://img.shields.io/twitter/follow/techissexxy?logo=twitter&style=for-the-badge" alt="techissexxy" /></a> </p>
 
-<p align="left"> <a href="www.linkedin.com/in/brittanyjburnam/" target="blank"><img src="https://img.shields.io/linkedin/follow/brittanyjburnam?logo=twitter&style=for-the-badge" alt="brittanyjburnam" /></a> </p>
-
 - 🌱 I’m currently learning **AWS and building full-stack apps with back-end technologies**
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate with other enthusiastic developers for open source projects**
