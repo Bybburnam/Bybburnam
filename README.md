@@ -51,7 +51,7 @@ I'm a multidisciplinary Full-Stack Software Engineer who has a passion for techn
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/qVnvCUntGtl6aWCPLN/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 
