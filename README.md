@@ -95,8 +95,8 @@ I'm a multidisciplinary Full-Stack Software Engineer who has a passion for techn
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Bybburnam&&style=flat-square)  
   
-<div align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1257520214&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-<br/>  </div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1257520214&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+<br/> 
 
 
 <br />
