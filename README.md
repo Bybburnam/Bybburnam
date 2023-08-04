@@ -1,4 +1,4 @@
-## Hey 👋, I'm Brittany!  
+## Hey 👋, I'm Brittany, an IT Professional!  
   
 
 <a href="https://github.com/Bybburnam" target="_blank">
