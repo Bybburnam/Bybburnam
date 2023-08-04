@@ -15,7 +15,7 @@
 
 
 ### Kick off your shoes and stay awhile!  
-I'm a multidisciplinary Full-Stack Software Engineer who has a passion for people, technology, innovation, volunteering, and the arts. I enjoy developing functional websites, creating engaging content, and turning amazing ideas into beautiful online experiences!  
+I'm a multidisciplinary IT Professional who has an interest in the cloud and cyber security. I have a passion for people, technology, innovation, volunteering, and the arts!
   
 
 <br/>  
