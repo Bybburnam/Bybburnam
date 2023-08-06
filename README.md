@@ -1,10 +1,10 @@
-## Hey 👋, I'm Brittany, an IT Professional!  
+<h1>Hi, I'm Brittany, an <a href="https://linkedin.com/in/brittanyjburnam">IT Professional</a>☺</h1>
   
 
 <a href="https://github.com/Bybburnam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/techissexxy" target="_blank">
+<a href="https://twitter.com/iambjburnam" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/brittanyjburnam" target="_blank">
@@ -15,7 +15,7 @@
 
 
 ### Kick off your shoes and stay awhile!  
-I'm a multidisciplinary IT Professional who has an interest in the cloud and cyber security. I have a passion for people, technology, innovation, volunteering, and the arts!
+I'm a multidisciplinary IT Professional who has an interest in cloud technologies and cyber security. I have a passion for people, technology, innovation, volunteering, and the arts!
   
 
 <br/>  
@@ -24,26 +24,25 @@ I'm a multidisciplinary IT Professional who has an interest in the cloud and cyb
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning AWS    
+- 🌱 I’m currently learning cloud technologies. I am also studying for the Comptia A+ & Security+ certification.  
+
+
+- ❓ Looking for a place to code & connect in Houston, TX? Ask me about the HTX Code & Coffee meetup group!😆  
   
 
-- 🛠️I'm currently building Full-Stack apps with back-end technologies  
-  
+- ⚡ Fun fact I love to sing and dance. In fact, I was once on a professional high heels dance team. As a member of the Junior League, I am the Project Coordinator for our Sing Along with Seniors placement. Furthermore, this placement, we perform at senior homes in Houston, TX.    
 
-- 🤝 I’m looking for help with Improving my Logic Building Skills for Programming    
-  
+  <h2>👨‍💻 Information Technology Projects:</h2>
 
-- ❓ Ask me about anything related to MERN stack and related technologies😆  
-  
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-- 👯 I’m looking to collaborate on I’m looking to collaborate with other enthusiastic developers for open source projects   
-  
-
-- ⚡ Fun fact I love to sing and dance. In fact, I was once on a professional high heels dance team.    
-  
-
-- 📫 How to reach me bybburnam@gmail.com    
-  
+- 📫 How to reach me hello@brittanyburnam.com
 
 - 📄 Learn more about my experience at: https://www.linkedin.com/in/brittanyjburnam/    
 
