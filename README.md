@@ -30,7 +30,7 @@ I'm a multidisciplinary IT Professional who has an interest in cloud technologie
 - ❓ Looking for a place to code & connect in Houston, TX? Ask me about the HTX Code & Coffee meetup group!😆  
   
 
-- ⚡ Fun fact I love to sing and dance. In fact, I was once on a professional high heels dance team. As a member of the Junior League, I am the Project Coordinator for our Sing Along with Seniors placement. Furthermore, this placement, we perform at senior homes in Houston, TX.    
+- ⚡ Fun fact I love to sing and dance. I am the Project Coordinator for the Junior League of Houston's Sing Along with Seniors placement. At this placement, we perform at senior homes in Houston, TX.    
 
   <h2>👨‍💻 Information Technology Projects:</h2>
 
