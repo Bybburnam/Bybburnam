@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brittany, an <a href="https://linkedin.com/in/brittanyjburnam">IT Professional</a>☺</h1>
+<h1>Hi, I'm Brittany, an <a href="https://linkedin.com/in/brittanyjburnam">IT Professional & Community Organizer</a>☺</h1>
   
 
 <a href="https://github.com/Bybburnam" target="_blank">
