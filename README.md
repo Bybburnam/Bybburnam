@@ -38,7 +38,7 @@ I'm a multidisciplinary IT Professional who has an interest in cloud technologie
   - [Let's Create a Virtual Machine with Microsoft Azure](https://github.com/Bybburnam/resource-groups-virtual-machines)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Bybburnam/configure-ad/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Bybburnam/azure-network-protocols/blob/main/README.md)
-  - 
+    
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Bybburnam/ostickets-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Bybburnam/post-install-config/blob/main/README.md)
