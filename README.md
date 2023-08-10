@@ -41,7 +41,7 @@ I'm a multidisciplinary IT Professional who has an interest in cloud technologie
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Bybburnam/ostickets-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Bybburnam/post-install-config/blob/main/README.md) Coming Soon
+  - [osTicket: Post-Installation Configuration](https://github.com/Bybburnam/post-install-config/blob/main/README.md) 
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Bybburnam/ticket-lifecycle/blob/main/README.md) Coming Soon
 
 
