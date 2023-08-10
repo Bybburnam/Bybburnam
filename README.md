@@ -36,13 +36,13 @@ I'm a multidisciplinary IT Professional who has an interest in cloud technologie
 
 - <b>Microsoft Azure</b>
   - [Let's Create a Virtual Machine with Microsoft Azure](https://github.com/Bybburnam/resource-groups-virtual-machines)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Bybburnam/configure-ad/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Bybburnam/azure-network-protocols/blob/main/README.md)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Bybburnam/configure-ad/blob/main/README.md) Coming Soon
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Bybburnam/azure-network-protocols/blob/main/README.md) Coming Soon
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Bybburnam/ostickets-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Bybburnam/post-install-config/blob/main/README.md)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Bybburnam/ticket-lifecycle/blob/main/README.md)
+  - [osTicket: Post-Installation Configuration](https://github.com/Bybburnam/post-install-config/blob/main/README.md) Coming Soon
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Bybburnam/ticket-lifecycle/blob/main/README.md) Coming Soon
 
 
 - 📫 How to reach me hello@brittanyburnam.com
